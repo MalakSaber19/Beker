@@ -1,0 +1,144 @@
+* {
+    margin:  0;
+    padding: 0 ;
+    text-align: center;
+}
+
+.header{
+    background-color: #8f7754;
+}
+
+.header_logo {
+    width: 150px;
+    float: left;
+    padding: 5px 5px;
+}
+
+.header_logo img {
+    width: 100%;
+}
+
+.link {
+    float: right;
+}
+
+.link li {
+    display: inline-block;
+    padding: 15px;
+    color: white;
+}
+
+.link li a {
+    text-decoration: none;
+    color: white;
+}
+
+.our_Bakery {
+    background-image: url(./imgs/drew-coffman-1872\ \(1\).jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    height: 100vh;
+   
+}
+
+.baker p {
+    font-family: "Alegreya Sans";
+    font-size: 16px;
+    font-weight: initial;
+    color: white;
+    font-variant: inherit;
+    text-wrap: balance;
+}
+
+.baker h2 {
+    font-family: "Alegreya";
+    font-weight: 400;
+    font-size: 60px;
+    color: white;
+}
+
+.bnt {
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+
+.color {
+    background-color: #8f7754;
+    color: white;
+}
+
+.imgs img {
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 100px;
+    float: left;
+}
+
+.baker {
+    padding: 100px;
+}
+
+
+
+.site {
+    width: 35%;
+    float: left;
+    margin-top: 30px;
+    padding: 5%;
+}
+
+.text {
+    width: 45%;
+    float: right;
+    padding: 5%;
+    margin-top: 10%;
+    text-align: right;
+}
+
+.site img {
+    width: 100%;
+}
+
+.our {
+    width: 100%;
+}
+
+.location {
+    width: 35%;
+    float: right;
+}
+
+.test {
+    width: 45%;
+    float: left;
+    padding: 5%;
+    margin-top: 30px;
+    text-align: left;
+}
+
+.location img {
+    width: 100%;
+}
+
+.Baking {
+    margin-top: 200px;
+}
+
+.cookies {
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+}
+
+.cookies img {
+    width: 100%;
+}
+
+.Our_Baking {
+    text-align: center;
+}
+.clear-fix{
+    clear: both;
+}
